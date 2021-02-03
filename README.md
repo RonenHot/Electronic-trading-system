@@ -1,5 +1,5 @@
 # Electronic-trading-system
-In this exercise we will run an e-commerce system. We will keep its name and the system of users for the system.
+Homework as part of a C++ object oriented course. In this exercise we will run an e-commerce system. We will keep its name and the system of users for the system.
 For each user we will save his username, login password and residential address. Any user
 Is either a seller or a buyer (there is no one who is both a seller and a buyer)
 All the feedback he received from the customers, so that each feedback contains information about the giver of the feedback, the date of delivery
